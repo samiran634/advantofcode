@@ -64,7 +64,7 @@ fun solvePart2(data: List<String>): Int {
             }
         };
 
-       
+
 
     }
     println(cnt)
